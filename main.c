@@ -6,7 +6,7 @@ int main(void) {
   x=1;
   //ENQUANTO
 
-  while(x<=100000000000000000){
+  while(x<=10){
  
 printf("%d\n", x);
 //x=x+1;
